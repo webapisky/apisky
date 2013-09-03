@@ -1,4 +1,4 @@
- //批量读取豆瓣的图书和电影
+//批量读取豆瓣的图书和电影
 //--dbapi.begin--
 var $ = jQuery;
 var dbapi = {
